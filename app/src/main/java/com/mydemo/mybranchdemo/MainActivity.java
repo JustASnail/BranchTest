@@ -23,5 +23,11 @@ public class MainActivity extends AppCompatActivity {
         MasterActivity.start(this);
 
         //准备拉去branch分支上的代码
+
+        //这次是branch1上修改的东西  =1
+
+        //第二次修改branch1分支上的东西
+
+        TestActivity.start(this);
     }
 }
