@@ -19,5 +19,7 @@ public class MainActivity extends AppCompatActivity {
         //第四次
 
         //第五次
+
+        MasterActivity.start(this);
     }
 }
